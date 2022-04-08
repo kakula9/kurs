@@ -1,2 +1,2 @@
 # kurs
-kurs
+kurs sample text
